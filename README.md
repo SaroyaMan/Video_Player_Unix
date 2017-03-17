@@ -1,6 +1,5 @@
 =========================== Exercise 2 - UNIX System Programming ===========================
 
-NOTE: This version is not for !!!!!CHECK!!!!!
 This application created by Yoav Saroya & Amit Shmuel (All rights and etc are reserved!)
 
 Compile:
